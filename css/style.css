@@ -245,6 +245,11 @@ nav .pro-pic {
     border-radius: 25px;
 }
 
+
+/*----------------------
+     Media Quaries
+-----------------------*/
+
 @media (max-width:768px) {
     .container {
         width: 80%;

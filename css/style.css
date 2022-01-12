@@ -120,6 +120,11 @@ nav .pro-pic {
     margin-right: 16px;
 }
 
+.top-players .player a {
+    text-decoration: none;
+    color: black;
+}
+
 .top-blogs {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
@@ -271,7 +276,7 @@ nav .pro-pic {
     .top-players .player img {
         flex-grow: 1;
     }
-    .top-players .player p {
+    .top-players .player a {
         flex-grow: 1;
         font-size: 40px;
     }
@@ -292,7 +297,7 @@ nav .pro-pic {
     .container {
         width: 95%;
     }
-    .top-players .player p {
+    .top-players .player a {
         font-size: 20px;
     }
     nav ul {

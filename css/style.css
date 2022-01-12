@@ -220,8 +220,6 @@ nav .pro-pic {
     margin-bottom: 19px;
 }
 
-.all-course .course p a {}
-
 .all-course .course .star {
     font-size: 13px;
 }
@@ -239,8 +237,6 @@ nav .pro-pic {
 .all-course .course .star .fa-star.empty {
     color: #ddd;
 }
-
-.all-course .course .star span {}
 
 .all-course .course .time {
     color: #ED6B4F;
